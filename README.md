@@ -11,9 +11,9 @@ This project is a simple web application that allows users to **sign up** and **
 
 ## Prerequisites
 
-Before you begin, ensure you have met the following requirements:
+Before  begin, ensure that we should met the following requirements:
 
-- [Node.js](https://nodejs.org/) (version 14.x or higher)
+- [Node.js](https://nodejs.org/) 
 - npm (Node package manager)
 
 ## Installation

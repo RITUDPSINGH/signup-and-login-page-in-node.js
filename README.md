@@ -6,8 +6,8 @@ This project is a simple web application that allows users to **sign up** and **
 
 - **Signup Page**: Users can register by providing their name, email, and password.
 - **Login Page**: Existing users can log in using their registered email and password.
-- **.css file**:To add style to a web page.
-- **Server side page** will fatch the data form database and will provide to the user
+- **.css file**:To add style to a web page.(style.css)
+- **Server side page** will fatch the data form database and will provide to the user.(app.js)
 - **User Data Storage**: User information is stored locally in a JSON format (`employees_23MCA20633.txt`).
 
 

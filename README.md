@@ -1,12 +1,12 @@
 # Signup and Login Page
 
-This project is a simple web application that allows users to **sign up** and **log in**. User data is stored in a JSON file (`users.json`) using Node.js, Express, and basic file system operations. The application consists of two pages: a signup page for new user registration and a login page for existing users to log in.
+This project is a simple web application that allows users to **sign up** and **log in**. User data is stored in a JSON format (`employees_23MCA20633.txt`) using Node.js, Express, and basic file system operations. The application consists of two pages: a signup page for new user registration and a login page for existing users to log in.
 
 ## Features
 
 - **Signup Page**: Users can register by providing their name, email, and password.
 - **Login Page**: Existing users can log in using their registered email and password.
-- **User Data Storage**: User information is stored locally in a JSON file (`employees_23MCA20633.txt`).
+- **User Data Storage**: User information is stored locally in a JSON format (`employees_23MCA20633.txt`).
 
 
 ## Prerequisites
